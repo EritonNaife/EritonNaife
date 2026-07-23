@@ -12,7 +12,7 @@ I'm currently leading development on two products as founder and technical build
   *upin* is the public app where attendees discover events and buy tickets; *backstage*
   is the organizer app for creating events, managing sales, and monitoring check-ins.
   Built on **Onda**, my in-house platform.
-- **MozPay** — a fintech installment-tracking platform for the informal market, where
+- **FlexPay** — a fintech installment-tracking platform for the informal market, where
   I work as the technical partner to an external founder.
 
 Both are in active MVP development. **The product repositories are private (pre-launch)** — I'm happy to give a code walkthrough or demo on request.
