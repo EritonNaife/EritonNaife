@@ -1,31 +1,29 @@
 # Eriton Naife
 
-**Founder Engineer · Full-Stack Developer**
+**Software Engineer · Backend & Full-Stack**
 
-I build digital products from 0 to 1 for high-friction markets in Mozambique — pairing technical training in Portugal (FEUP, 42 Porto) with direct knowledge of the Mozambican operating reality.
+I build and ship production software: REST APIs and services in Go and Python (Django), with TypeScript/SvelteKit front-ends. Based in Porto, Portugal — currently in the Common Core at 42 Porto.
 
-## What I'm building
+## What I'm working on
 
-I'm currently leading development on two products as founder and technical builder at **Solis Collective, Inc**:
+- **Solis Collective, Inc.** — engineering on the Onda event-tech platform and its two SvelteKit apps: an attendee app (event discovery, ticket purchase) and an organizer app (event creation, sales, real-time check-ins). Go modular monolith, REST API contracts, server-enforced state machines, provider-agnostic payments layer.
+- **FlexPay** *(client project)* — Python/Django backend for an installment-tracking fintech: REST endpoints, OTP authentication, and a rules-based trust score.
 
-- **upin & backstage** — an events & ticketing platform for Maputo (my own product).
-  *upin* is the public app where attendees discover events and buy tickets; *backstage*
-  is the organizer app for creating events, managing sales, and monitoring check-ins.
-  Built on **Onda**, my in-house platform.
-- **FlexPay** — a fintech installment-tracking platform for the informal market, where
-  I work as the technical partner to an external founder.
+These repositories are private (pre-launch / client IP). Happy to walk through the code or give a demo on request.
 
-Both are in active MVP development. **The product repositories are private (pre-launch)** — I'm happy to give a code walkthrough or demo on request.
+## Public work
+
+- **cafe-bonfim**, **cafe-foz**, **cafe-ribeira** — SvelteKit websites built from design to implementation.
+- **c-httpd** *(in progress)* — a small multithreaded HTTP server in C: sockets, thread pool, benchmarks.
 
 ## Stack
 
-- **Backend:** Go, Django (Python)
+- **Backend:** Go, Python (Django), REST APIs
 - **Frontend:** SvelteKit, TypeScript
-- **Data:** PostgreSQL, SQL, REST APIs
+- **Data:** PostgreSQL, SQL
 - **Infra / DevOps:** Docker, Proxmox, LXC, Cloudflare Tunnels, CI/CD
-- **Currently at 42 Porto:** C — systems, memory management, computing fundamentals
+- **At 42 Porto:** C — systems, memory management, computing fundamentals
 
-## Reach me
+## Contact
 
-- **Email:** naifeeriton@gmail.com
-- Open to a demo or code walkthrough on request.
+naifeeriton@gmail.com
